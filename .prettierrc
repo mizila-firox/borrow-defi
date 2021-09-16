@@ -16,7 +16,6 @@
  "trailingComma": "es5",
  "useTabs": false,
  "vueIndentScriptAndStyle": false,
- "filepath": "/Volumes/APPLE HDD/reactprojects/borrow3/migrations/2_deploy.js",
  "parser": "babel"
 }
 
